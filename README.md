@@ -1,10 +1,9 @@
 - 👋 Hi, I’m @laolianlaile
 - 👀 Currently, I’m interested in Nothing
-- 🌱 I’m currently learning Machine Learning and so on......
+- 🌱 I’m currently learning Nothing
 - 💞️ Quite glad to see you here.
 - 📫 How to reach me : LRoldface@hotmail.com
-- 🧠 I have learnt something about Linux, Python, C++, PCL, OpenCV, Assembly Language, RealSense, Rasperberry Pi and Jetson
-- 📕 CAU&NUAA
+- 🧠 I have learnt Nothing
 
 <!---
 laolianlaile/laolianlaile is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
